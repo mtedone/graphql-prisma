@@ -1,0 +1,3 @@
+projects:
+  prisma:
+    schema: '/src/generated/prisma.graphql'
