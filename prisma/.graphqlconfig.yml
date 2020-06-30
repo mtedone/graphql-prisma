@@ -1,0 +1,6 @@
+projects:
+  default:
+    schemaPath: 'http://localhost:4466'
+    generate:
+      - generator: graphql-schema
+        output: './src/generated/prisma.graphql'
